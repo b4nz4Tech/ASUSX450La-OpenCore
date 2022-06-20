@@ -31,6 +31,10 @@ BATERIA: 4 células 2600 mAh.
 
 DIMENSÕES: 2,48~3,17 cm x 34,8 cm x 24,1 cm (A x L x P).
  
+ 
+Everthing Works
+
+
 
 Video: OK
 Som: OK
